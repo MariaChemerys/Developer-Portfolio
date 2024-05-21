@@ -146,3 +146,32 @@ Since CodeCraft is a Swift Student Challenge 2024 winning submission, there is a
   <img src="https://img.shields.io/badge/Visual%20Studio-7509b0?style=for-the-badge" alt="Visual Studio" />
   <img src="https://img.shields.io/badge/C++-24b8f2?style=for-the-badge" alt="C++" />
 </p>
+
+
+
+<h3>Calculation of the Peak Wavelength Using Derivative Analysis (individual project)</h3>
+<a href="https://github.com/MariaChemerys/Calculation_of_the_Peak_Wavelength_of_the_Blackbody_Radiation_Spectrum_Using_Derivative_Analysis">Calculation of the Peak Wavelength Using Derivative Analysis</a> is an algorithm designed to compute the peak wavelength of the blackbody radiation spectrum using the spectral radiance function's derivative analysis. It is a part of my high school <a href="https://github.com/MariaChemerys/Calculation_of_the_Peak_Wavelength_of_the_Blackbody_Radiation_Spectrum_Using_Derivative_Analysis/blob/master/Mathematics%20Internal%20Assessment.pdf">research</a> on the topic <strong><em>To what extent do the computational algorithms written in C++ programming language differ in time complexity when computing the peak wavelength of the blackbody radiation spectrum?</strong></em> <br>
+
+<h4>Technologies Used</h4>
+<p align="left">
+  <img src="https://img.shields.io/badge/Visual%20Studio-7509b0?style=for-the-badge" alt="Visual Studio" />
+  <img src="https://img.shields.io/badge/C++-24b8f2?style=for-the-badge" alt="C++" />
+</p>
+
+
+
+<h3>ASMR English (individual project)</h3>
+<a href="https://github.com/MariaChemerys/ASMR-English-Desktop-Application">ASMR English</a> is an educational and calming game for learning English alphabet. <br>
+
+<h4>Screenshots</h4>
+<p align="center">
+<img src="https://github.com/MariaChemerys/ASMR-English-Desktop-Application/blob/main/ASMR%20English%20Screenshot%201.png?raw=true" width="500" height=auto />
+<img src="https://github.com/MariaChemerys/ASMR-English-Desktop-Application/blob/main/ASMR%20English%20Screenshot%202.png?raw=true" width="500" height=auto />
+</p>
+
+<h4>Technologies Used</h4>
+<p align="left">
+  <img src="https://img.shields.io/badge/Visual%20Studio-7509b0?style=for-the-badge" alt="Visual Studio" />
+  <img src="https://img.shields.io/badge/C++-24b8f2?style=for-the-badge" alt="C++" />
+  <img src="https://img.shields.io/badge/SFML-26ff3c?style=for-the-badge" alt="SFML" />
+</p>
