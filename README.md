@@ -134,3 +134,15 @@ Since CodeCraft is a Swift Student Challenge 2024 winning submission, there is a
   <img src="https://img.shields.io/badge/SwiftData-53f5c7?style=for-the-badge" alt="SwiftData" />
 </p>
 
+
+
+<h2>C++ Projects</h2>
+
+<h3>Gradient Descent Algorithm to Calculate the Peak Wavelength of the Blackbody Radiation Spectrum (individual project)</h3>
+<a href="https://github.com/MariaChemerys/Gradient_Descent_Algorithm_to_Calculate_the_Peak_Wavelength_of_the_Blackbody_Radiation_Spectrum">Gradient Descent Algorithm to Calculate the Peak Wavelength of the Blackbody Radiation Spectrum</a> is an implementation of the gradient descent algorithm to compute the peak wavelength of the blackbody radiation spectrum. It is a part of my high school <a href="https://github.com/MariaChemerys/Calculation_of_the_Peak_Wavelength_of_the_Blackbody_Radiation_Spectrum_Using_Derivative_Analysis/blob/master/Mathematics%20Internal%20Assessment.pdf">research</a> on the topic <strong><em>To what extent do the computational algorithms written in C++ programming language differ in time complexity when computing the peak wavelength of the blackbody radiation spectrum?</strong></em> <br>
+
+<h4>Technologies Used</h4>
+<p align="left">
+  <img src="https://img.shields.io/badge/Visual%20Studio-7509b0?style=for-the-badge" alt="Visual Studio" />
+  <img src="https://img.shields.io/badge/C++-24b8f2?style=for-the-badge" alt="C++" />
+</p>
