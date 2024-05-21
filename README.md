@@ -117,5 +117,20 @@ Since CodeCraft is a Swift Student Challenge 2024 winning submission, there is a
 
 
 
+<h3>MarsMonkey (group project)</h3>
+<a href="https://github.com/MariaChemerys/Mars-Monkey">MarsMonkey</a> is an arcade game about a monkey who decided to colonize Mars.
 
+<h4>GIF</h4>
+<a href="https://youtu.be/SX-dCDzpXVU" target="_blank">
+  <img src="https://github.com/matt-novoselov/Mars-Monkey/assets/59065228/6e0b57af-73fc-4289-a273-eeddfe7a5140" alt="GIF">
+</a>
+
+<h4>Technologies Used</h4>
+<p align="left">
+  <img src="https://img.shields.io/badge/XCode-blue?style=for-the-badge&logo=#5B4638" alt="XCode" />
+  <img src="https://img.shields.io/badge/SwiftUI-fffb0a?style=for-the-badge&logo=#5B4638" alt="SwiftUI" />
+  <img src="https://img.shields.io/badge/SpriteKit-17fce2?style=for-the-badge" alt="SpriteKit" />
+  <img src="https://img.shields.io/badge/AVFoundation-ff0f83?style=for-the-badge" alt="AVFoundation" />
+  <img src="https://img.shields.io/badge/SwiftData-53f5c7?style=for-the-badge" alt="SwiftData" />
+</p>
 
