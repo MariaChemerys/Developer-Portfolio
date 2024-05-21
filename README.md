@@ -86,8 +86,8 @@ Since CodeCraft is a Swift Student Challenge 2024 winning submission, there is a
 
 <h4>Screenshots</h4>
 <p align="center">
-<img src="https://github.com/MariaChemerys/Flora-s-Garden/blob/main/Flora's%20Garden%20Screenshot%202.PNG?raw=true" width=auto height="250"/>
-<img src="https://github.com/MariaChemerys/Flora-s-Garden/blob/main/Flora's%20Garden%20Screenshot%201.PNG?raw=true" width=auto height="250"/>
+<img src="https://github.com/MariaChemerys/Flora-s-Garden/blob/main/Flora's%20Garden%20Screenshot%202.PNG?raw=true" height="250" width=auto/>
+<img src="https://github.com/MariaChemerys/Flora-s-Garden/blob/main/Flora's%20Garden%20Screenshot%201.PNG?raw=true" height="250" width=auto/>
 </p>
 
 <h4>Technologies Used</h4>
