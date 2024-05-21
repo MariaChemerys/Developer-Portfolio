@@ -27,3 +27,33 @@
   <img src="https://img.shields.io/badge/SwiftMath-4ff7b4?style=for-the-badge" alt="SwiftMath" />
   <img src="https://img.shields.io/badge/CoreHaptics-fabc1e?style=for-the-badge" alt="CoreHaptics" />
 </p>
+
+
+
+<h3>CodeCraft (individual project)</h3>
+
+<a href="https://github.com/MariaChemerys/CodeCraft_Apple_SSC_2024_Winner_Project">CodeCraft</a> is a MacOS game where programming concepts are personified as optimistic robots, introducing themselves to learners.<br>
+
+<h4>CodeCraft in Media</h4>
+Since CodeCraft is a Swift Student Challenge 2024 winning submission, there is an <a href="https://www.wwdcscholars.com/s/AF0E97E9-56FA-48F4-9AD1-B34692D4F326/2024">article</a> on
+<b>WWDCScholars</b> website dedicated to it.
+
+<h4>Screenshots</h4>
+<p align="center">
+<img src="https://github.com/MariaChemerys/CodeCraft_Apple_SSC_2024_Winner_Project/blob/main/CodeCraft%20Comic%20Screenshot.png?raw=true" width=auto height="300"/>
+<img src="https://github.com/MariaChemerys/CodeCraft_Apple_SSC_2024_Winner_Project/blob/main/CodeCraft%20Variables%20Screenshot.png?raw=true" width=auto height="300"/>
+<img src="https://github.com/MariaChemerys/CodeCraft_Apple_SSC_2024_Winner_Project/blob/main/CodeCraft%20Loop%20and%20Array%20Screenshot.png?raw=true" width=auto height="300"/>
+</p>
+
+<h4>Technologies Used</h4>
+<p align="left">
+  <img src="https://img.shields.io/badge/XCode-blue?style=for-the-badge&logo=#5B4638" alt="XCode" />
+  <img src="https://img.shields.io/badge/Swift%20Playgrounds-fc5c17?style=for-the-badge" alt="Swift Playgrounds" />
+  <img src="https://img.shields.io/badge/SwiftUI-fffb0a?style=for-the-badge&logo=#5B4638" alt="SwiftUI" />
+  <img src="https://img.shields.io/badge/SpriteKit-17fce2?style=for-the-badge" alt="SpriteKit" />
+  <img src="https://img.shields.io/badge/AVFoundation-ff0f83?style=for-the-badge" alt="AVFoundation" />
+  <img src="https://img.shields.io/badge/AVKit-9ecdff?style=for-the-badge" alt="AVKit" />
+  <img src="https://img.shields.io/badge/VideoPad%20Professional-09ad03?style=for-the-badge" alt="VideoPad Professional" />
+  <img src="https://img.shields.io/badge/Picsart-ee33ff?style=for-the-badge" alt="Picsart" />
+</p>
+
