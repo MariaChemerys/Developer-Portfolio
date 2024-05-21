@@ -175,3 +175,14 @@ Since CodeCraft is a Swift Student Challenge 2024 winning submission, there is a
   <img src="https://img.shields.io/badge/C++-24b8f2?style=for-the-badge" alt="C++" />
   <img src="https://img.shields.io/badge/SFML-26ff3c?style=for-the-badge" alt="SFML" />
 </p>
+
+
+
+<h3>Sandbox App Plugin - Picture Encoder (individual project)</h3>
+<a href="https://github.com/MariaChemerys/Sandbox_App_Plugin-Picture_Encoder">Sandbox App Plugin - Picture Encoder</a> is an internal plugin for my iOS Sandbox Clone app which contains a gallery of pictures that can be colored by numbers. <br>
+
+<h4>Technologies Used</h4>
+<p align="left">
+  <img src="https://img.shields.io/badge/Visual%20Studio-7509b0?style=for-the-badge" alt="Visual Studio" />
+  <img src="https://img.shields.io/badge/C++-24b8f2?style=for-the-badge" alt="C++" />
+</p>
