@@ -41,7 +41,6 @@ Since CodeCraft is a Swift Student Challenge 2024 winning submission, there is a
 <h4>Screenshots</h4>
 <p align="center">
 <img src="https://github.com/MariaChemerys/CodeCraft_Apple_SSC_2024_Winner_Project/blob/main/CodeCraft%20Comic%20Screenshot.png?raw=true" width=auto height="300"/>
-<img src="https://github.com/MariaChemerys/CodeCraft_Apple_SSC_2024_Winner_Project/blob/main/CodeCraft%20Variables%20Screenshot.png?raw=true" width=auto height="300"/>
 <img src="https://github.com/MariaChemerys/CodeCraft_Apple_SSC_2024_Winner_Project/blob/main/CodeCraft%20Loop%20and%20Array%20Screenshot.png?raw=true" width=auto height="300"/>
 </p>
 
@@ -79,4 +78,44 @@ Since CodeCraft is a Swift Student Challenge 2024 winning submission, there is a
   <img src="https://img.shields.io/badge/Visual%20Studio-7509b0?style=for-the-badge" alt="Visual Studio" />
   <img src="https://img.shields.io/badge/C++-24b8f2?style=for-the-badge" alt="C++" />
 </p>
+
+
+
+<h3>Flora's Garden (group project)</h3>
+<a href="https://github.com/MariaChemerys/Flora-s-Garden">Flora's Garden</a> is an iOS educational game for learning Italian words related to the topics <em>Food</em> and <em>Kitchen</em>.
+
+<h4>Screenshots</h4>
+<p align="center">
+<img src="https://github.com/MariaChemerys/Flora-s-Garden/blob/main/Flora's%20Garden%20Screenshot%202.PNG?raw=true" width=auto height="250"/>
+<img src="https://github.com/MariaChemerys/Flora-s-Garden/blob/main/Flora's%20Garden%20Screenshot%201.PNG?raw=true" width=auto height="250"/>
+</p>
+
+<h4>Technologies Used</h4>
+<p align="left">
+  <img src="https://img.shields.io/badge/XCode-blue?style=for-the-badge&logo=#5B4638" alt="XCode" />
+  <img src="https://img.shields.io/badge/SwiftUI-fffb0a?style=for-the-badge&logo=#5B4638" alt="SwiftUI" />
+</p>
+
+
+
+<h3>Roomie (group project)</h3>
+<a href="https://github.com/MariaChemerys/Roomie">Roomie</a> is an app designed to help roommates with their daily routines.
+
+<h4>GIF</h4>
+<a href="https://youtu.be/JYDTZkBXT7c" target="_blank">
+  <img src="https://github.com/BortoAle/Roomie/assets/59065228/10b74848-7574-42fc-999f-1f78feffdc14" alt="GIF">
+</a>
+
+<h4>Technologies Used</h4>
+<p align="left">
+  <img src="https://img.shields.io/badge/XCode-blue?style=for-the-badge&logo=#5B4638" alt="XCode" />
+  <img src="https://img.shields.io/badge/SwiftUI-fffb0a?style=for-the-badge&logo=#5B4638" alt="SwiftUI" />
+  <img src="https://img.shields.io/badge/UIKit-4bff0a?style=for-the-badge&logo=#5B4638" alt="UIKit" />
+  <img src="https://img.shields.io/badge/CloudKit-3326ed?style=for-the-badge" alt="CloudKit" />
+  <img src="https://img.shields.io/badge/CoreData-bab5ff?style=for-the-badge" alt="CoreData" />
+</p>
+
+
+
+
 
