@@ -186,3 +186,20 @@ Since CodeCraft is a Swift Student Challenge 2024 winning submission, there is a
   <img src="https://img.shields.io/badge/Visual%20Studio-7509b0?style=for-the-badge" alt="Visual Studio" />
   <img src="https://img.shields.io/badge/C++-24b8f2?style=for-the-badge" alt="C++" />
 </p>
+
+
+
+<h2>Python Project</h2>
+<h3>ASMR English (individual project)</h3>
+<a href="https://github.com/MariaChemerys/Tic-Tac-Toe_Python_Shell_Game">Tic-Tac-Toe Python Shell Game</a> is a classical tic-tac-toe game where you play with the computer in a Python Shell. <br>
+
+<h4>Screenshot</h4>
+<p align="center">
+<img src="https://github.com/MariaChemerys/Tic-Tac-Toe_Python_Shell_Game/blob/main/Tic-tac-toe%20Screenshot.png?raw=true" width="500" height=auto />
+</p>
+
+<h4>Technologies Used</h4>
+<p align="left">
+  <img src="https://img.shields.io/badge/Python%20IDLE-f6fc9a?style=for-the-badge" alt="Python IDLE" />
+  <img src="https://img.shields.io/badge/Python-4f97d1?style=for-the-badge" alt="Python" />
+</p>
