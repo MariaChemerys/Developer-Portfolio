@@ -2,7 +2,7 @@
 
 <h2>Swift Projects</h2>
 
-<h3>Topple Tower (individual project)</h3>
+<h3>Topple Tower (group project)</h3>
 
 <a href="https://bit.ly/ToppleTower">Topple Tower</a> is a visionOS game published on the AppStore.<br>
 
@@ -15,15 +15,14 @@
 <h4>Technologies Used</h4>
 <p align="left">
   <img src="https://img.shields.io/badge/XCode-blue?style=for-the-badge&logo=#5B4638" alt="XCode" />
-  <img src="https://img.shields.io/badge/Cocoapods-red?style=for-the-badge&logo=#5B4638" alt="Cocoapods" />
+  <img src="https://img.shields.io/badge/Reality%20Composer%20Pro-fa9441?style=for-the-badge" alt="Reality Composer Pro" />
+  <img src="https://img.shields.io/badge/RealityKit-3434eb?style=for-the-badge" alt="RealityKit" />
+  <img src="https://img.shields.io/badge/RealityKitContent-049136?style=for-the-badge" alt="RealityKitContent" />
+  <img src="https://img.shields.io/badge/TableTopKit-a617e3?style=for-the-badge" alt="TableTopKit" />
+  <img src="https://img.shields.io/badge/GroupActivities-2ef2e8?style=for-the-badge" alt="GroupActivities" />
+  <img src="https://img.shields.io/badge/AVKit-f22e69?style=for-the-badge" alt="AVKit" />
+  <img src="https://img.shields.io/badge/GameKit-1df5bb?style=for-the-badge" alt="GameKit" />
   <img src="https://img.shields.io/badge/SwiftUI-fffb0a?style=for-the-badge&logo=#5B4638" alt="SwiftUI" />
-  <img src="https://img.shields.io/badge/UIKit-4bff0a?style=for-the-badge&logo=#5B4638" alt="UIKit" />
-  <img src="https://img.shields.io/badge/Combine-ef13f2?style=for-the-badge" alt="Combine" />
-  <img src="https://img.shields.io/badge/Plot3D-ba91ff?style=for-the-badge" alt="Plot3D" />
-  <img src="https://img.shields.io/badge/SceneKit-f74fa3?style=for-the-badge" alt="SceneKit" />
-  <img src="https://img.shields.io/badge/SwiftNumerics-6b4ff7?style=for-the-badge" alt="SwiftNumerics" />
-  <img src="https://img.shields.io/badge/SwiftMath-4ff7b4?style=for-the-badge" alt="SwiftMath" />
-  <img src="https://img.shields.io/badge/CoreHaptics-fabc1e?style=for-the-badge" alt="CoreHaptics" />
 </p>
 
 <h3>Planck3D (individual project)</h3>
