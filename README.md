@@ -65,9 +65,9 @@ There is also a <a href="https://bit.ly/ToppleTowerBeta">beta version</a> of the
 <h4>Screenshots</h4>
 
 <p align="center">
-<img src="https://github.com/MariaChemerys/Planck3D/blob/main/Planck3D%20Screenshot%201.png?raw=true" width="230" height=auto/>
-<img src="https://github.com/MariaChemerys/Planck3D/blob/main/Planck3D%20Screenshot%204.png?raw=true" width="230" height=auto/>
-<img src="https://github.com/MariaChemerys/Planck3D/blob/main/Planck3D%20Screenshot%205.png?raw=true" width="230" height=auto/>
+<img src="https://github.com/MariaChemerys/Planck3D/blob/main/Planck3D%20Screenshot%201.png?raw=true" width="30%" />
+<img src="https://github.com/MariaChemerys/Planck3D/blob/main/Planck3D%20Screenshot%204.png?raw=true" width="30%" />
+<img src="https://github.com/MariaChemerys/Planck3D/blob/main/Planck3D%20Screenshot%205.png?raw=true" width="30%" />
 </p>
 
 <h4>Technologies Used</h4>
@@ -96,8 +96,8 @@ Since CodeCraft is a Swift Student Challenge 2024 winning submission, there is a
 
 <h4>Screenshots</h4>
 <p align="center">
-<img src="https://github.com/MariaChemerys/CodeCraft_Apple_SSC_2024_Winner_Project/blob/main/CodeCraft%20Comic%20Screenshot.png?raw=true" width=auto height="300"/>
-<img src="https://github.com/MariaChemerys/CodeCraft_Apple_SSC_2024_Winner_Project/blob/main/CodeCraft%20Loop%20and%20Array%20Screenshot.png?raw=true" width=auto height="300"/>
+<img src="https://github.com/MariaChemerys/CodeCraft_Apple_SSC_2024_Winner_Project/blob/main/CodeCraft%20Comic%20Screenshot.png?raw=true" width="60%" />
+<img src="https://github.com/MariaChemerys/CodeCraft_Apple_SSC_2024_Winner_Project/blob/main/CodeCraft%20Loop%20and%20Array%20Screenshot.png?raw=true" width="60%" />
 </p>
 
 <h4>Technologies Used</h4>
@@ -193,8 +193,8 @@ Since CodeCraft is a Swift Student Challenge 2024 winning submission, there is a
 
 <h4>Screenshots</h4>
 <p align="center">
-<img src="https://github.com/MariaChemerys/Flora-s-Garden/blob/main/Flora's%20Garden%20Screenshot%202.PNG?raw=true" height="250" width=auto/>
-<img src="https://github.com/MariaChemerys/Flora-s-Garden/blob/main/Flora's%20Garden%20Screenshot%201.PNG?raw=true" height="250" width=auto/>
+<img src="https://github.com/MariaChemerys/Flora-s-Garden/blob/main/Flora's%20Garden%20Screenshot%202.PNG?raw=true" width="50%"/>
+<img src="https://github.com/MariaChemerys/Flora-s-Garden/blob/main/Flora's%20Garden%20Screenshot%201.PNG?raw=true" width="50%"/>
 </p>
 
 <h4>Technologies Used</h4>
@@ -234,8 +234,8 @@ Since CodeCraft is a Swift Student Challenge 2024 winning submission, there is a
 
 <h4>Screenshots</h4>
 <p align="center">
-<img src="https://github.com/MariaChemerys/ASMR-English-Desktop-Application/blob/main/ASMR%20English%20Screenshot%201.png?raw=true" width="500" height=auto />
-<img src="https://github.com/MariaChemerys/ASMR-English-Desktop-Application/blob/main/ASMR%20English%20Screenshot%202.png?raw=true" width="500" height=auto />
+<img src="https://github.com/MariaChemerys/ASMR-English-Desktop-Application/blob/main/ASMR%20English%20Screenshot%201.png?raw=true" width="60%" />
+<img src="https://github.com/MariaChemerys/ASMR-English-Desktop-Application/blob/main/ASMR%20English%20Screenshot%202.png?raw=true" width="60%" />
 </p>
 
 <h4>Technologies Used</h4>
