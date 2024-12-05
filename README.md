@@ -151,7 +151,7 @@ Since CodeCraft is a Swift Student Challenge 2024 winning submission, there is a
 
 
 <h3>Roomie (group project)</h3>
-<a href="https://github.com/MariaChemerys/Roomie">Roomie</a> is an app designed to help roommates with their daily routines.
+<a href="https://github.com/BortoAle/Roomie">Roomie</a> is an app designed to help roommates with their daily routines.
 
 <h4>GIF</h4>
 <a href="https://youtu.be/JYDTZkBXT7c" target="_blank">
