@@ -40,7 +40,7 @@ There is also a <a href="https://bit.ly/ToppleTowerBeta">beta version</a> of the
 <h4>Screenshots</h4>
 
 <p align="center">
-<img src="https://github.com/MariaChemerys/Foxy/blob/master/Foxy%20screenshots.jpeg" width="70%">
+<img src="https://github.com/MariaChemerys/Developer-Portfolio/blob/main/Foxy%20screenshots.jpeg" width="70%">
 </p>
 
 <h4>Technologies Used</h4>
