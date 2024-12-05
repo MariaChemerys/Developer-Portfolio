@@ -4,12 +4,19 @@
 
 <h3>Topple Tower (group project)</h3>
 
-<a href="https://bit.ly/ToppleTower">Topple Tower</a> is a visionOS game published on the AppStore.<br>
+<a href="https://bit.ly/ToppleTower">Topple Tower</a> is a visionOS game published on the AppStore. This is a 3D block-stacking game where precision, balance, and strategy are your keys to victory. Test your skills with physics-based mechanics and immersive gameplay as you race to keep the tower standing!<br>
 
 <h4>Screenshots</h4>
 
 <p align="center">
 <img src="https://github.com/MariaChemerys/Developer-Portfolio/blob/main/Topple%20Tower%20SP%20Collage.jpeg" width="80%" />
+</p>
+
+<h4>ToppleTower Beta</h4>
+
+There is also a <a href="https://bit.ly/ToppleTowerBeta">beta version</a> of the game <b>(multiplayer)</b> currently on the TestFlight.
+<p align="center">
+<img src="https://github.com/MariaChemerys/Developer-Portfolio/blob/main/Topple%20Tower%20MP.jpg" width="60%" />
 </p>
 
 <h4>Technologies Used</h4>
