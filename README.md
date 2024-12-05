@@ -16,7 +16,7 @@
 
 There is also a <a href="https://bit.ly/ToppleTowerBeta">beta version</a> of the game <b>(multiplayer)</b> currently on the TestFlight.
 <p align="center">
-<img src="https://github.com/MariaChemerys/Developer-Portfolio/blob/main/Topple%20Tower%20MP.jpg" width="60%" />
+<img src="https://github.com/MariaChemerys/Developer-Portfolio/blob/main/Topple%20Tower%20MP.jpg" width="40%" />
 </p>
 
 <h4>Technologies Used</h4>
@@ -30,6 +30,28 @@ There is also a <a href="https://bit.ly/ToppleTowerBeta">beta version</a> of the
   <img src="https://img.shields.io/badge/AVKit-f22e69?style=for-the-badge" alt="AVKit" />
   <img src="https://img.shields.io/badge/GameKit-1df5bb?style=for-the-badge" alt="GameKit" />
   <img src="https://img.shields.io/badge/SwiftUI-fffb0a?style=for-the-badge&logo=#5B4638" alt="SwiftUI" />
+</p>
+
+<h3>Foxy (individual project)</h3>
+<b>Foxy</b> is a macOS app for visualizing 3D functions. Whether you're a math enthusiast, a student, or just someone who loves tinkering with graphs, Foxy lets you plot functions of two variables with stunning clarity. Start with customizable inputs or use a variety of built-in templates, including quadratic, trigonometric, logarithmic, and more!
+
+<h4>Screenshots</h4>
+
+<p align="center">
+<img src="https://github.com/MariaChemerys/Foxy/blob/master/Foxy%20screenshots.jpeg" width="70%">
+</p>
+
+<h4>Technologies Used</h4>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/XCode-blue?style=for-the-badge&logo=#5B4638" alt="XCode" />
+  <img src="https://img.shields.io/badge/Playgrounds-red?style=for-the-badge" alt="Playgrounds" />
+  <img src="https://img.shields.io/badge/SwiftUI-fffb0a?style=for-the-badge&logo=#5B4638" alt="SwiftUI" />
+  <img src="https://img.shields.io/badge/UIKit-4bff0a?style=for-the-badge&logo=#5B4638" alt="UIKit" />
+  <img src="https://img.shields.io/badge/Combine-ef13f2?style=for-the-badge" alt="Combine" />
+  <img src="https://img.shields.io/badge/Plot3D-ba91ff?style=for-the-badge" alt="Plot3D" />
+  <img src="https://img.shields.io/badge/SceneKit-f74fa3?style=for-the-badge" alt="SceneKit" />
+  <img src="https://img.shields.io/badge/DDMathParser-fabc1e?style=for-the-badge" alt="DDMathParser" />
 </p>
 
 <h3>Planck3D (individual project)</h3>
