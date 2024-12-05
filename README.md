@@ -32,6 +32,8 @@ There is also a <a href="https://bit.ly/ToppleTowerBeta">beta version</a> of the
   <img src="https://img.shields.io/badge/SwiftUI-fffb0a?style=for-the-badge&logo=#5B4638" alt="SwiftUI" />
 </p>
 
+
+
 <h3>Foxy (individual project)</h3>
 <b>Foxy</b> is a macOS app for visualizing 3D functions. Whether you're a math enthusiast, a student, or just someone who loves tinkering with graphs, Foxy lets you plot functions of two variables with stunning clarity. Start with customizable inputs or use a variety of built-in templates, including quadratic, trigonometric, logarithmic, and more!
 
@@ -53,6 +55,8 @@ There is also a <a href="https://bit.ly/ToppleTowerBeta">beta version</a> of the
   <img src="https://img.shields.io/badge/SceneKit-f74fa3?style=for-the-badge" alt="SceneKit" />
   <img src="https://img.shields.io/badge/DDMathParser-fabc1e?style=for-the-badge" alt="DDMathParser" />
 </p>
+
+
 
 <h3>Planck3D (individual project)</h3>
 
@@ -110,25 +114,21 @@ Since CodeCraft is a Swift Student Challenge 2024 winning submission, there is a
 
 
 
-<h3>Sandbox Clone (individual project)</h3>
-<a href="https://github.com/MariaChemerys/Sandbox_Clone_iOS">Sandbox Clone</a> is an iOS app that contains a gallery of pictures that can be colored by numbers. <br>
+<h3>PixArt (individual project)</h3>
+<a href="https://github.com/MariaChemerys/PixArt">PixArt</a> is a delightful iOS app that transforms coloring into a soothing and immersive experience. Dive into a vibrant gallery of stunning artwork, where every picture is waiting to come to life with your touch. Using a simple "color-by-numbers" approach, PixArt makes it easy and enjoyable for users of all ages to create beautiful, pixel-perfect masterpieces. <br>
 
 <h4>Screenshots</h4>
 <p align="center">
-<img src="https://github.com/MariaChemerys/Sandbox_Clone_iOS/blob/main/Sandbox%20Screenshot%201.PNG?raw=true" width="200" height=auto />
-<img src="https://github.com/MariaChemerys/Sandbox_Clone_iOS/blob/main/Sandbox%20Screenshot%202.PNG?raw=true" width="200" height=auto />
-<img src="https://github.com/MariaChemerys/Sandbox_Clone_iOS/blob/main/Sandbox%20Screenshot%203.PNG?raw=true" width="200" height=auto />
+<img src="https://github.com/MariaChemerys/PixArt/blob/main/PixArt%20Home%20Screen.PNG" width="25%" />
+<img src="https://github.com/MariaChemerys/PixArt/blob/main/PixArt%20Panda.PNG" width="25%" />
+<img src="https://github.com/MariaChemerys/PixArt/blob/main/PixArt%20Rocket.PNG" width="25%" />
 </p>
-
-<h4>Internal Plugin</h4>
-<a href="https://github.com/MariaChemerys/Sandbox_App_Plugin-Picture_Encoder">Sandbox App Plugin - Picture Encoder</a> is an internal plugin for the Sandbox Clone.
 
 <h4>Technologies Used</h4>
 <p align="left">
   <img src="https://img.shields.io/badge/XCode-blue?style=for-the-badge&logo=#5B4638" alt="XCode" />
   <img src="https://img.shields.io/badge/SwiftUI-fffb0a?style=for-the-badge&logo=#5B4638" alt="SwiftUI" />
-  <img src="https://img.shields.io/badge/Visual%20Studio-7509b0?style=for-the-badge" alt="Visual Studio" />
-  <img src="https://img.shields.io/badge/C++-24b8f2?style=for-the-badge" alt="C++" />
+  <img src="https://img.shields.io/badge/CoreHaptics-fabc1e?style=for-the-badge" alt="CoreHaptics" />
 </p>
 
 
