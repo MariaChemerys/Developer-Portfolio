@@ -88,7 +88,7 @@ There is also a <a href="https://bit.ly/ToppleTowerBeta">beta version</a> of the
 
 <h3>CodeCraft (individual project)</h3>
 
-<a href="https://github.com/MariaChemerys/CodeCraft_Apple_SSC_2024_Winner_Project">CodeCraft</a> is a MacOS game where programming concepts are personified as optimistic robots, introducing themselves to learners.<br>
+<a href="https://github.com/MariaChemerys/CodeCraft_Apple_SSC_2024_Winner_Project">CodeCraft</a> is a macOS game where programming concepts are personified as optimistic robots, introducing themselves to learners.<br>
 
 <h4>CodeCraft in Media</h4>
 Since CodeCraft is a Swift Student Challenge 2024 winning submission, there is an <a href="https://www.wwdcscholars.com/s/AF0E97E9-56FA-48F4-9AD1-B34692D4F326/2024">article</a> on
@@ -133,18 +133,18 @@ Since CodeCraft is a Swift Student Challenge 2024 winning submission, there is a
 
 
 
-<h3>Flora's Garden (group project)</h3>
-<a href="https://github.com/MariaChemerys/Flora-s-Garden">Flora's Garden</a> is an iOS educational game for learning Italian words related to the topics <em>Food</em> and <em>Kitchen</em>.
+<h3>MagicTranslate (group project)</h3>
+<a href="https://bit.ly/MagicTranslate">MagicTranslate</a> is a macOS application published on the AppStore. It was designed for developers and translators to collaborate on app localization. Create a seamless multilingual experience by connecting development and translation efforts effectively.
 
 <h4>Screenshots</h4>
 <p align="center">
-<img src="https://github.com/MariaChemerys/Flora-s-Garden/blob/main/Flora's%20Garden%20Screenshot%202.PNG?raw=true" height="250" width=auto/>
-<img src="https://github.com/MariaChemerys/Flora-s-Garden/blob/main/Flora's%20Garden%20Screenshot%201.PNG?raw=true" height="250" width=auto/>
+<img src="https://github.com/DanielePerrupane/MagicTranslate/blob/35aeeff32e491411dc1a5e7931f05bc8d34e49dd/Media/Thumbnail.png" width="70%" alt="Thumbnail">
 </p>
 
 <h4>Technologies Used</h4>
 <p align="left">
   <img src="https://img.shields.io/badge/XCode-blue?style=for-the-badge&logo=#5B4638" alt="XCode" />
+  <img src="https://img.shields.io/badge/AppKit-ff69be?style=for-the-badge" alt="AppKit" />
   <img src="https://img.shields.io/badge/SwiftUI-fffb0a?style=for-the-badge&logo=#5B4638" alt="SwiftUI" />
 </p>
 
@@ -188,6 +188,23 @@ Since CodeCraft is a Swift Student Challenge 2024 winning submission, there is a
 
 
 
+<h3>Flora's Garden (group project)</h3>
+<a href="https://github.com/MariaChemerys/Flora-s-Garden">Flora's Garden</a> is an iOS educational game for learning Italian words related to the topics <em>Food</em> and <em>Kitchen</em>.
+
+<h4>Screenshots</h4>
+<p align="center">
+<img src="https://github.com/MariaChemerys/Flora-s-Garden/blob/main/Flora's%20Garden%20Screenshot%202.PNG?raw=true" height="250" width=auto/>
+<img src="https://github.com/MariaChemerys/Flora-s-Garden/blob/main/Flora's%20Garden%20Screenshot%201.PNG?raw=true" height="250" width=auto/>
+</p>
+
+<h4>Technologies Used</h4>
+<p align="left">
+  <img src="https://img.shields.io/badge/XCode-blue?style=for-the-badge&logo=#5B4638" alt="XCode" />
+  <img src="https://img.shields.io/badge/SwiftUI-fffb0a?style=for-the-badge&logo=#5B4638" alt="SwiftUI" />
+</p>
+
+
+
 <h2>C++ Projects</h2>
 
 <h3>Gradient Descent Algorithm to Calculate the Peak Wavelength of the Blackbody Radiation Spectrum (individual project)</h3>
@@ -226,32 +243,4 @@ Since CodeCraft is a Swift Student Challenge 2024 winning submission, there is a
   <img src="https://img.shields.io/badge/Visual%20Studio-7509b0?style=for-the-badge" alt="Visual Studio" />
   <img src="https://img.shields.io/badge/C++-24b8f2?style=for-the-badge" alt="C++" />
   <img src="https://img.shields.io/badge/SFML-26ff3c?style=for-the-badge" alt="SFML" />
-</p>
-
-
-
-<h3>Sandbox App Plugin - Picture Encoder (individual project)</h3>
-<a href="https://github.com/MariaChemerys/Sandbox_App_Plugin-Picture_Encoder">Sandbox App Plugin - Picture Encoder</a> is an internal plugin for my iOS Sandbox Clone app which contains a gallery of pictures that can be colored by numbers. <br>
-
-<h4>Technologies Used</h4>
-<p align="left">
-  <img src="https://img.shields.io/badge/Visual%20Studio-7509b0?style=for-the-badge" alt="Visual Studio" />
-  <img src="https://img.shields.io/badge/C++-24b8f2?style=for-the-badge" alt="C++" />
-</p>
-
-
-
-<h2>Python Project</h2>
-<h3>ASMR English (individual project)</h3>
-<a href="https://github.com/MariaChemerys/Tic-Tac-Toe_Python_Shell_Game">Tic-Tac-Toe Python Shell Game</a> is a classical tic-tac-toe game where you play with the computer in a Python Shell. <br>
-
-<h4>Screenshot</h4>
-<p align="center">
-<img src="https://github.com/MariaChemerys/Tic-Tac-Toe_Python_Shell_Game/blob/main/Tic-tac-toe%20Screenshot.png?raw=true" width="500" height=auto />
-</p>
-
-<h4>Technologies Used</h4>
-<p align="left">
-  <img src="https://img.shields.io/badge/Python%20IDLE-f6fc9a?style=for-the-badge" alt="Python IDLE" />
-  <img src="https://img.shields.io/badge/Python-4f97d1?style=for-the-badge" alt="Python" />
 </p>
