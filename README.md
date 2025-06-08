@@ -14,8 +14,8 @@
 </p>
 
 <p align="center">
-<img src="https://github.com/MariaChemerys/Developer-Portfolio/blob/main/Screenshots/RoboKit/RoboKit%20UI%201.jpg" width="30%" />
-<img src="https://github.com/MariaChemerys/Developer-Portfolio/blob/main/Screenshots/RoboKit/RoboKit%20UI%202.jpg" width="30%" />
+<img src="https://github.com/MariaChemerys/Developer-Portfolio/blob/main/Screenshots/RoboKit/RoboKit%20UI%201.jpg" width="25%" />
+<img src="https://github.com/MariaChemerys/Developer-Portfolio/blob/main/Screenshots/RoboKit/RoboKit%20UI%202.jpg" width="36%" />
 </p>
 
 <h3>Topple Tower (group project)</h3>
