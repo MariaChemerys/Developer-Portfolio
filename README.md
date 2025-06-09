@@ -14,8 +14,7 @@
 </p>
 
 <p align="center">
-<img src="https://github.com/MariaChemerys/Developer-Portfolio/blob/main/Screenshots/RoboKit/RoboKit%20UI%201.jpg" width="25%" />
-<img src="https://github.com/MariaChemerys/Developer-Portfolio/blob/main/Screenshots/RoboKit/RoboKit%20UI%202.jpg" width="36%" />
+<img src="https://github.com/MariaChemerys/Developer-Portfolio/blob/main/Screenshots/RoboKit/RoboKit%20UI.jpeg" width="60%" />
 </p>
 
 <h3>Topple Tower (group project)</h3>
@@ -25,14 +24,7 @@
 <h4>Screenshots</h4>
 
 <p align="center">
-<img src="https://github.com/MariaChemerys/Developer-Portfolio/blob/main/Screenshots/Topple%20Tower/Topple%20Tower%20SP%20Collage.jpeg" width="80%" />
-</p>
-
-<h4>ToppleTower Beta</h4>
-
-There is also a <a href="https://bit.ly/ToppleTowerBeta">beta version</a> of the game <b>(multiplayer)</b> currently on the TestFlight.
-<p align="center">
-<img src="https://github.com/MariaChemerys/Developer-Portfolio/blob/main/Screenshots/Topple%20Tower/Topple%20Tower%20MP.jpg" width="40%" />
+<img src="https://github.com/MariaChemerys/Developer-Portfolio/blob/main/Screenshots/Topple%20Tower/Topple%20Tower%20collage.jpeg" width="80%" />
 </p>
 
 <h4>Technologies Used</h4>
@@ -56,7 +48,20 @@ There is also a <a href="https://bit.ly/ToppleTowerBeta">beta version</a> of the
 <h4>Screenshots</h4>
 
 <p align="center">
-<img src="https://github.com/MariaChemerys/Developer-Portfolio/blob/main/Screenshots/Foxy/Foxy%20screenshots.jpeg" width="70%">
+<img src="https://github.com/MariaChemerys/Developer-Portfolio/blob/main/Screenshots/Foxy/Foxy%20large%20screenshot.jpeg" width="70%">
+</p>
+
+<p align="center">
+<img src="https://github.com/MariaChemerys/Developer-Portfolio/blob/main/Screenshots/Foxy/Foxy%20trigonometric%20plot.png" width="30%" />
+<img src="https://github.com/MariaChemerys/Developer-Portfolio/blob/main/Screenshots/Foxy/Foxy%20tangent%20plot.jpeg" width="30%" />
+<img src="https://github.com/MariaChemerys/Developer-Portfolio/blob/main/Screenshots/Foxy/Foxy%20logarithmic%20plot.jpeg" width="30%" />
+</p>
+
+<h4>visionOS Version</h4>
+
+<p align="center">
+<img src="https://github.com/MariaChemerys/Developer-Portfolio/blob/main/Screenshots/Foxy/Foxy%20visionOS%20red%20plot.jpeg" width="30%" />
+<img src="https://github.com/MariaChemerys/Developer-Portfolio/blob/main/Screenshots/Foxy/Foxy%20visionOS%20pink%20plot.jpeg" width="30%" />
 </p>
 
 <h4>Technologies Used</h4>
