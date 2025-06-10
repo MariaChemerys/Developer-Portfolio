@@ -1,7 +1,5 @@
 <h1 align="center">Developer Portfolio</h1>
 
-<h2>Swift Projects</h2>
-
 <h3>RoboKit (group project)</h3>
 <a href="https://github.com/Spacial-Dragons/RoboKit">RoboKit</a> is a framework designed to facilitate the integration between visionOS applications and robotics software. It allows for real-time and pre-set robot control.
 
@@ -16,6 +14,20 @@
 <p align="center">
 <img src="https://github.com/MariaChemerys/Developer-Portfolio/blob/main/Screenshots/RoboKit/RoboKit%20UI.jpeg" width="60%" />
 </p>
+
+<h4>Technologies Used</h4>
+<p align="left">
+  <img src="https://img.shields.io/badge/XCode-blue?style=for-the-badge&logo=#5B4638" alt="XCode" />
+  <img src="https://img.shields.io/badge/ARKit-de3535?style=for-the-badge" alt="ARKit" />
+  <img src="https://img.shields.io/badge/RealityKit-3434eb?style=for-the-badge" alt="RealityKit" />
+  <img src="https://img.shields.io/badge/RealityKitContent-049136?style=for-the-badge" alt="RealityKitContent" />
+  <img src="https://img.shields.io/badge/Network-fa8805?style=for-the-badge" alt="Network" />
+  <img src="https://img.shields.io/badge/SwiftUI-fffb0a?style=for-the-badge&logo=#5B4638" alt="SwiftUI" />
+  <img src="https://img.shields.io/badge/UIKit-15E6B1?style=for-the-badge&logo=#15E6B1" alt="UIKit" />
+  <img src="https://img.shields.io/badge/Swift Testing-A142F5?style=for-the-badge&logo=#A142F5" alt="Swift Testing" />
+</p>
+
+
 
 <h3>Topple Tower (group project)</h3>
 
@@ -71,7 +83,7 @@ The visionOS version of Foxy is in the development process now.
   <img src="https://img.shields.io/badge/XCode-blue?style=for-the-badge&logo=#5B4638" alt="XCode" />
   <img src="https://img.shields.io/badge/Playgrounds-red?style=for-the-badge" alt="Playgrounds" />
   <img src="https://img.shields.io/badge/SwiftUI-fffb0a?style=for-the-badge&logo=#5B4638" alt="SwiftUI" />
-  <img src="https://img.shields.io/badge/UIKit-4bff0a?style=for-the-badge&logo=#5B4638" alt="UIKit" />
+  <img src="https://img.shields.io/badge/UIKit-15E6B1?style=for-the-badge&logo=#15E6B1" alt="UIKit" />
   <img src="https://img.shields.io/badge/Combine-ef13f2?style=for-the-badge" alt="Combine" />
   <img src="https://img.shields.io/badge/Plot3D-ba91ff?style=for-the-badge" alt="Plot3D" />
   <img src="https://img.shields.io/badge/SceneKit-f74fa3?style=for-the-badge" alt="SceneKit" />
@@ -98,7 +110,7 @@ The visionOS version of Foxy is in the development process now.
   <img src="https://img.shields.io/badge/XCode-blue?style=for-the-badge&logo=#5B4638" alt="XCode" />
   <img src="https://img.shields.io/badge/Cocoapods-red?style=for-the-badge&logo=#5B4638" alt="Cocoapods" />
   <img src="https://img.shields.io/badge/SwiftUI-fffb0a?style=for-the-badge&logo=#5B4638" alt="SwiftUI" />
-  <img src="https://img.shields.io/badge/UIKit-4bff0a?style=for-the-badge&logo=#5B4638" alt="UIKit" />
+  <img src="https://img.shields.io/badge/UIKit-15E6B1?style=for-the-badge&logo=#15E6B1" alt="UIKit" />
   <img src="https://img.shields.io/badge/Combine-ef13f2?style=for-the-badge" alt="Combine" />
   <img src="https://img.shields.io/badge/Plot3D-ba91ff?style=for-the-badge" alt="Plot3D" />
   <img src="https://img.shields.io/badge/SceneKit-f74fa3?style=for-the-badge" alt="SceneKit" />
@@ -176,7 +188,7 @@ The visionOS version of Foxy is in the development process now.
 <p align="left">
   <img src="https://img.shields.io/badge/XCode-blue?style=for-the-badge&logo=#5B4638" alt="XCode" />
   <img src="https://img.shields.io/badge/SwiftUI-fffb0a?style=for-the-badge&logo=#5B4638" alt="SwiftUI" />
-  <img src="https://img.shields.io/badge/UIKit-4bff0a?style=for-the-badge&logo=#5B4638" alt="UIKit" />
+  <img src="https://img.shields.io/badge/UIKit-15E6B1?style=for-the-badge&logo=#15E6B1" alt="UIKit" />
   <img src="https://img.shields.io/badge/CloudKit-3326ed?style=for-the-badge" alt="CloudKit" />
   <img src="https://img.shields.io/badge/CoreData-bab5ff?style=for-the-badge" alt="CoreData" />
 </p>
@@ -207,28 +219,4 @@ Since CodeCraft is a Swift Student Challenge 2024 winning submission, there is a
   <img src="https://img.shields.io/badge/AVKit-9ecdff?style=for-the-badge" alt="AVKit" />
   <img src="https://img.shields.io/badge/VideoPad%20Professional-09ad03?style=for-the-badge" alt="VideoPad Professional" />
   <img src="https://img.shields.io/badge/Picsart-ee33ff?style=for-the-badge" alt="Picsart" />
-</p>
-
-
-
-
-<h2>C++ Projects</h2>
-
-<h3>Gradient Descent Algorithm to Calculate the Peak Wavelength of the Blackbody Radiation Spectrum (individual project)</h3>
-<a href="https://github.com/MariaChemerys/Gradient_Descent_Algorithm_to_Calculate_the_Peak_Wavelength_of_the_Blackbody_Radiation_Spectrum">Gradient Descent Algorithm to Calculate the Peak Wavelength of the Blackbody Radiation Spectrum</a> is an implementation of the gradient descent algorithm to compute the peak wavelength of the blackbody radiation spectrum. It is a part of my high school <a href="https://github.com/MariaChemerys/Calculation_of_the_Peak_Wavelength_of_the_Blackbody_Radiation_Spectrum_Using_Derivative_Analysis/blob/master/Mathematics%20Internal%20Assessment.pdf">research</a> on the topic <strong><em>To what extent do the computational algorithms written in C++ programming language differ in time complexity when computing the peak wavelength of the blackbody radiation spectrum?</strong></em> <br>
-
-<h4>Technologies Used</h4>
-<p align="left">
-  <img src="https://img.shields.io/badge/Visual%20Studio-7509b0?style=for-the-badge" alt="Visual Studio" />
-  <img src="https://img.shields.io/badge/C++-24b8f2?style=for-the-badge" alt="C++" />
-</p>
-
-
-<h3>Calculation of the Peak Wavelength Using Derivative Analysis (individual project)</h3>
-<a href="https://github.com/MariaChemerys/Calculation_of_the_Peak_Wavelength_of_the_Blackbody_Radiation_Spectrum_Using_Derivative_Analysis">Calculation of the Peak Wavelength Using Derivative Analysis</a> is an algorithm designed to compute the peak wavelength of the blackbody radiation spectrum using the spectral radiance function's derivative analysis. It is a part of my high school <a href="https://github.com/MariaChemerys/Calculation_of_the_Peak_Wavelength_of_the_Blackbody_Radiation_Spectrum_Using_Derivative_Analysis/blob/master/Mathematics%20Internal%20Assessment.pdf">research</a> on the topic <strong><em>To what extent do the computational algorithms written in C++ programming language differ in time complexity when computing the peak wavelength of the blackbody radiation spectrum?</strong></em> <br>
-
-<h4>Technologies Used</h4>
-<p align="left">
-  <img src="https://img.shields.io/badge/Visual%20Studio-7509b0?style=for-the-badge" alt="Visual Studio" />
-  <img src="https://img.shields.io/badge/C++-24b8f2?style=for-the-badge" alt="C++" />
 </p>
