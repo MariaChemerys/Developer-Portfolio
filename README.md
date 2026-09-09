@@ -138,25 +138,6 @@ The visionOS version of Foxy is in the development process now.
 
 
 
-<h3>PixArt (individual project)</h3>
-<a href="https://github.com/MariaChemerys/PixArt">PixArt</a> is a delightful iOS app that transforms coloring into a soothing and immersive experience. Dive into a vibrant gallery of stunning artwork, where every picture is waiting to come to life with your touch. Using a simple "color-by-numbers" approach, PixArt makes it easy and enjoyable for users of all ages to create beautiful, pixel-perfect masterpieces. <br>
-
-<h4>Screenshots</h4>
-<p align="center">
-<img src="https://github.com/MariaChemerys/PixArt/blob/main/PixArt%20Home%20Screen.PNG" width="25%" />
-<img src="https://github.com/MariaChemerys/PixArt/blob/main/PixArt%20Panda.PNG" width="25%" />
-<img src="https://github.com/MariaChemerys/PixArt/blob/main/PixArt%20Rocket.PNG" width="25%" />
-</p>
-
-<h4>Technologies Used</h4>
-<p align="left">
-  <img src="https://img.shields.io/badge/XCode-blue?style=for-the-badge&logo=#5B4638" alt="XCode" />
-  <img src="https://img.shields.io/badge/SwiftUI-fffb0a?style=for-the-badge&logo=#5B4638" alt="SwiftUI" />
-  <img src="https://img.shields.io/badge/CoreHaptics-fabc1e?style=for-the-badge" alt="CoreHaptics" />
-</p>
-
-
-
 <h3>MarsMonkey (group project)</h3>
 <a href="https://github.com/MariaChemerys/Mars-Monkey">MarsMonkey</a> is an arcade game about a monkey who decided to colonize Mars.
 
@@ -191,32 +172,4 @@ The visionOS version of Foxy is in the development process now.
   <img src="https://img.shields.io/badge/UIKit-15E6B1?style=for-the-badge&logo=#15E6B1" alt="UIKit" />
   <img src="https://img.shields.io/badge/CloudKit-3326ed?style=for-the-badge" alt="CloudKit" />
   <img src="https://img.shields.io/badge/CoreData-bab5ff?style=for-the-badge" alt="CoreData" />
-</p>
-
-
-
-<h3>CodeCraft (individual project)</h3>
-
-<a href="https://github.com/MariaChemerys/CodeCraft_Apple_SSC_2024_Winner_Project">CodeCraft</a> is a macOS game where programming concepts are personified as optimistic robots, introducing themselves to learners.<br>
-
-<h4>CodeCraft in Media</h4>
-Since CodeCraft is a Swift Student Challenge 2024 winning submission, there is an <a href="https://www.wwdcscholars.com/s/AF0E97E9-56FA-48F4-9AD1-B34692D4F326/2024">article</a> on
-<b>WWDCScholars</b> website dedicated to it.
-
-<h4>Screenshots</h4>
-<p align="center">
-<img src="https://github.com/MariaChemerys/CodeCraft_Apple_SSC_2024_Winner_Project/blob/main/CodeCraft%20Comic%20Screenshot.png?raw=true" width="60%" />
-<img src="https://github.com/MariaChemerys/CodeCraft_Apple_SSC_2024_Winner_Project/blob/main/CodeCraft%20Loop%20and%20Array%20Screenshot.png?raw=true" width="60%" />
-</p>
-
-<h4>Technologies Used</h4>
-<p align="left">
-  <img src="https://img.shields.io/badge/XCode-blue?style=for-the-badge&logo=#5B4638" alt="XCode" />
-  <img src="https://img.shields.io/badge/Swift%20Playgrounds-fc5c17?style=for-the-badge" alt="Swift Playgrounds" />
-  <img src="https://img.shields.io/badge/SwiftUI-fffb0a?style=for-the-badge&logo=#5B4638" alt="SwiftUI" />
-  <img src="https://img.shields.io/badge/SpriteKit-17fce2?style=for-the-badge" alt="SpriteKit" />
-  <img src="https://img.shields.io/badge/AVFoundation-ff0f83?style=for-the-badge" alt="AVFoundation" />
-  <img src="https://img.shields.io/badge/AVKit-9ecdff?style=for-the-badge" alt="AVKit" />
-  <img src="https://img.shields.io/badge/VideoPad%20Professional-09ad03?style=for-the-badge" alt="VideoPad Professional" />
-  <img src="https://img.shields.io/badge/Picsart-ee33ff?style=for-the-badge" alt="Picsart" />
 </p>
